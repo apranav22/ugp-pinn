@@ -1,0 +1,3 @@
+# torch
+# qutip
+pre-commit

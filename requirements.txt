@@ -1,4 +1,4 @@
 # torch
 qutip
 pre-commit
-scipy==1.11.3
+# scipy==1.11.3

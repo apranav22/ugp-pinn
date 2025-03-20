@@ -3,6 +3,8 @@
 .ruff_cache
 
 #### 
+two-level-demo.ipynb
+two-level-atom-spectra.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,7 +1,9 @@
 /*/*
 !/*/rubidium
 .ruff_cache
-
+docs/
+!cnn_data/cnn_0_synthetic.csv
+!cnn_data/cnn_1_synthetic.csv
 #### 
 two-level-demo.ipynb
 two-level-atom-spectra.ipynb
